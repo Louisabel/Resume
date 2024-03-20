@@ -1,0 +1,34 @@
+				RESUME
+PERSONAL INFORMATION
+
+Name: Louisabel Angco Layson
+Date of Birth: June 22, 2002
+Gender: Female
+Address: #894 Guyabano Street San Francisco
+	 Mabalacat city, Pampanga
+Contact Number: 09185551928
+Email Address: layson.louisabel@auf.ed
+Contact Number: 09185551928
+Email Address: layson.louisabel@auf.edu.ph
+Status: Single
+Language: Filipino
+
+ "PROFILE"
+- I am urently studying at Angeles University Foundation, 
+as an Information Technology. Third student, who really
+into computers and wants to know more about technology
+
+ "SKILLS"
+ - Java
+ - Python
+ - Linux
+ - JavaScript
+ - Problem Solver
+
+ "EDUCATION"
+ - Brightstone School INC (Kinder-Prep)
+ - Nehemiah Christian School INC (Grade 1- Grade 6)
+ - Mary Help Christians School INC ( gRADE 7 - Grade 10)
+ - Angeles University Foundation (Senior High - College Ongoing)
+
+	
